@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon OAuth module
+
+
+From: 'an unknown organization'
+  - WSO2 Carbon Orbit - Nimbus JWT Library (http://wso2.org) org.wso2.orbit.com.nimbusds:nimbus-jose-jwt:bundle:7.3.0.wso2v1
+
+
+
+
+
